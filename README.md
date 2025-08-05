@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi! I'm Patrick Jeon 👋🚀  
+- 소통을 중시하며, 백엔드와 데브옵스 전반을 아우르는 개발자입니다.  
+- 안정성과 확장성을 고려한 시스템 설계를 지향합니다.
 
-<!--
-**Junnnnnnnnnnn/Junnnnnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 **Tech Stack**
+- **Language:** TypeScript  
+- **Backend Framework:** NestJS  
+- **Database:** PostgreSQL, Redis  
+- **Infra & DevOps:** Nginx, Docker, GitHub Actions  
+- **Message Queue:** RabbitMQ  
+- **Real-time:** Socket.IO  
 
-Here are some ideas to get you started:
+### ⭐️ **Experience**
+- [Adenasoft](https://adenasoft.com) | Backend & DevOps Engineer (2024.10 ~ )  
+- [SuperTree](https://supertree.co) | Backend Engineer (2020.10 ~ 2024.09)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 **Blog:**  
+- [Patrick’s DevLog](https://dantechblog.xyz)
+
+<br/>
+
+![Junnnnnnnnnnn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junnnnnnnnnnn&show_icons=true)
