@@ -17,6 +17,8 @@
 
 ### 📊 GitHub Stats
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junnnnnnnnnnn&show_icons=true&theme=radical)
+# 1. 커밋 기록 및 활동 요약 (다른 서비스)
+![Patrick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Junnnnnnnnnnn&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junnnnnnnnnnn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 2. 만약 꼭 기존 디자인을 쓰고 싶다면 아래 '개인 서버' 링크를 시도해보세요
+![Patrick's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Junnnnnnnnnnn&show_icons=true&theme=radical)
